@@ -45,7 +45,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f2c6777f-1679-4175-940b-2f40ff0f558a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
 
 ### :fire: My Stats :
